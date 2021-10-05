@@ -1,3 +1,23 @@
+<!-- site name  -->
+
+Site name:  Educational React Website
+
+<!-- live site link  -->
+
+
+my live site link : https://admiring-lamarr-82a21a.netlify.app/
+
+
+** Add routing 
+ * home 
+ service
+bootstarp 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
